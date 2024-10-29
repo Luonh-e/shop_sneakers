@@ -1,4 +1,5 @@
-# shop_sneakers
+# shop_sneakers flutter + bloc to manage state
+
 link demo: https://drive.google.com/file/d/1Hsu2PU68dQ5RSI2Fjp6T2uvTWepCicyz/view?usp=sharing
 
 A new Flutter project.
